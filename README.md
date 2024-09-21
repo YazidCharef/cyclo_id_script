@@ -4,8 +4,8 @@
 
 1. Create and activate virtual environment:
    ```
-   python -m venv typhoon_env
-   source typhoon_env/bin/activate  # On Windows: typhoon_env\Scripts\activate
+   python -m venv venv
+   source venv/bin/activate  
    ```
 
 2. Install dependencies:
